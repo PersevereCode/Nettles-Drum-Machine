@@ -1,5 +1,6 @@
 {
   "name": "redux-react-tester",
+  "homepage": "https://perseverecode.github.io/Nettles-Drum-Machine/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
