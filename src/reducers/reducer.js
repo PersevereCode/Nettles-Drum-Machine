@@ -1,7 +1,7 @@
 import {bankOne} from '../components/soundbank'
 
 const defaultState={
-  display: 'default',
+  display: "drum machine: Press/click button",
   sounds: bankOne
 }
 

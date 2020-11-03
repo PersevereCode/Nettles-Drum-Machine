@@ -1,5 +1,5 @@
 import React from 'react';
-import { bankOne } from './soundbank'
+
 
 class DrumPad extends React.Component{
 

@@ -17,7 +17,7 @@ export const Box = (props)=> {
 
 const playSound=()=>{
     let sound = document.getElementById(props.keyTrigger)
-   console.log('n3tt735')
+   
     sound.parentNode.classList.add('active')
     
     setTimeout(()=>sound.parentNode.classList.remove('active'), 500)

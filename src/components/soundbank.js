@@ -26,12 +26,12 @@ export const bankOne = [{
 }, {
   keyCode: 68,
   keyTrigger: 'D',
-  id: 'job',
+  id: 'rim',
   url: "./sounds/808-rim4.wav"
 }, {
   keyCode: 90,
   keyTrigger: 'Z',
-  id: 'shakeweight',
+  id: 'shake',
   url: "./sounds/808-ma2.wav"
 }, {
   keyCode: 88,
@@ -41,8 +41,8 @@ export const bankOne = [{
 }, {
   keyCode: 67,
   keyTrigger: 'C',
-  id: "When your powers combine; I am Captain Planet!",
-  url: "./sounds/class-content_week-04_activities_day-02_10-CaptainPlanetGame_Unsolved_assets_captainplanet24.mp3"
+  id: "snare2",
+  url: "./sounds/808-sd08.wav"
 },
 ];
 
