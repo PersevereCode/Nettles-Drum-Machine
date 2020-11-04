@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Nettles-Drum-Machine/precache-manifest.fd7eea6efabf590f9084baf5d97d39ee.js"
+  "/Nettles-Drum-Machine/precache-manifest.b4d302c1bf50aea2de8675b9a87726ee.js"
 );
 
 self.addEventListener('message', (event) => {
